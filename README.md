@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi, I'm Khaja Shamsuddin Ahmed
 
-<!--
-**k-shamsuddin/k-shamsuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring DevOps Engineer | AWS, Docker, CI/CD, Kubernetes, Terraform  
+🚀 Building Real-World DevOps Projects | Freelancing on Fiverr & Upwork  
+📫 Reach me: [Email](mailto:k.shamsuddin.a@gmail.com) | [LinkedIn](https://www.linkedin.com/in/khaja-shamsuddin-ahmed)
 
-Here are some ideas to get you started:
+ 🛠️ Tools & Technologies
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 What I'm Working On
+- Freelance DevOps Projects
+- Hands-on Cloud Deployments
+- Sharing Knowledge via GitHub & LinkedIn
+
