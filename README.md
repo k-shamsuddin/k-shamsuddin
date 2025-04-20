@@ -1,6 +1,6 @@
 👋 Hi, I'm Khaja Shamsuddin Ahmed
 
-💻 Aspiring DevOps Engineer | AWS, Docker, CI/CD, Kubernetes, Terraform  
+💻 Aspiring DevOps Engineer | AWS, Docker, CI/CD, Kubernetes, Terraform 
 🚀 Building Real-World DevOps Projects | Freelancing on Fiverr & Upwork  
 📫 Reach me: [Email](mailto:k.shamsuddin.a@gmail.com) | [LinkedIn](https://www.linkedin.com/in/khaja-shamsuddin-ahmed)
 
@@ -10,7 +10,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+
 
 🔥 What I'm Working On
 - Freelance DevOps Projects
