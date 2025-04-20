@@ -1,7 +1,6 @@
 👋 Hi, I'm Khaja Shamsuddin Ahmed
 
 💻 Aspiring DevOps Engineer | AWS, Docker, CI/CD, Kubernetes, Terraform. 
-
 🚀 Building Real-World DevOps Projects | Freelancing on Fiverr & Upwork  
 📫 Reach me: [Email](mailto:k.shamsuddin.a@gmail.com) | [LinkedIn](https://www.linkedin.com/in/khaja-shamsuddin-ahmed)
 
