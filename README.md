@@ -22,8 +22,4 @@
 - Hands-on Cloud Deployments
 - Sharing Knowledge via GitHub & LinkedIn
 
-### 🔨 DevOps Projects
-- ✅ [Terraform EC2 Web Server](https://github.com/k-shamsuddin/terraform-ec2-setup.git)
-- More coming soon...
-
 
